@@ -1,0 +1,36 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+html, body {
+	background-color: #3b3e42;
+	color: black;
+}
+
+.container {
+	width: 500px;
+	margin: auto;
+}
+
+.block {
+	border: none;
+	padding: 7px;
+	background-color: rgb(240, 235, 219);
+	border-radius: 10px;
+	margin: 10px;
+}
+
+.container .block ul li .project {
+	font-size: 18px;
+	color: rgb(31, 96, 160);
+	font-weight: bold;
+}
+
+.container .block ul li a {
+	background-color: skyblue;
+	padding: 5px;
+	text-decoration: none;
+	color: coral;
+	font-weight: bold;
+	border-radius: 10px;
+}
